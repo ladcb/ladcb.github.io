@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.prophetclouds.com/"/>
-  <updated>2019-07-17T04:32:16.907Z</updated>
-  <id>http://www.prophetclouds.com/</id>
+  <link href="http://www.fanzenan.top/"/>
+  <updated>2018-04-25T03:29:26.924Z</updated>
+  <id>http://www.fanzenan.top/</id>
   
   <author>
     <name>fanhao</name>
@@ -17,37 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>这是一个测试目录</title>
-    <link href="http://www.prophetclouds.com/2019/07/17/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%9B%AE%E5%BD%95/"/>
-    <id>http://www.prophetclouds.com/2019/07/17/这是一个测试目录/</id>
-    <published>2019-07-17T04:32:16.000Z</published>
-    <updated>2019-07-17T04:32:16.907Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一直小可爱范昊</title>
-    <link href="http://www.prophetclouds.com/2019/07/17/%E4%B8%80%E7%9B%B4%E5%B0%8F%E5%8F%AF%E7%88%B1%E8%8C%83%E6%98%8A/"/>
-    <id>http://www.prophetclouds.com/2019/07/17/一直小可爱范昊/</id>
-    <published>2019-07-17T04:22:20.000Z</published>
-    <updated>2019-07-17T04:22:20.812Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://www.prophetclouds.com/2018/04/25/hello-world/"/>
-    <id>http://www.prophetclouds.com/2018/04/25/hello-world/</id>
+    <link href="http://www.fanzenan.top/2018/04/25/hello-world/"/>
+    <id>http://www.fanzenan.top/2018/04/25/hello-world/</id>
     <published>2018-04-25T03:29:26.924Z</published>
     <updated>2018-04-25T03:29:26.924Z</updated>
     
