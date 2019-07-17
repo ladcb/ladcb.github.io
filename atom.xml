@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>mr.fan</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.prophetclouds.com/"/>
-  <updated>2019-07-17T04:22:20.812Z</updated>
+  <updated>2019-07-17T04:32:16.907Z</updated>
   <id>http://www.prophetclouds.com/</id>
   
   <author>
-    <name>yangchuan</name>
+    <name>fanhao</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一个测试目录</title>
+    <link href="http://www.prophetclouds.com/2019/07/17/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%9B%AE%E5%BD%95/"/>
+    <id>http://www.prophetclouds.com/2019/07/17/这是一个测试目录/</id>
+    <published>2019-07-17T04:32:16.000Z</published>
+    <updated>2019-07-17T04:32:16.907Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>一直小可爱范昊</title>
